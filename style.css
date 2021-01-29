@@ -1,11 +1,6 @@
 body {
-    background-color: rgb(9, 112, 5);
+    background-color: rgb(110, 179, 167);
 }
 
-.first {color:darkred;}
-.second {color: blueviolet;}
-.last {color: cadetblue;}
-
-.France {color: darkblue;}
-.Russia {color: darkred;}
-.England {color: dimgrey;}
+.name {color:rgb(139, 0, 139);}
+.
